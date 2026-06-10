@@ -286,7 +286,7 @@
 #define ENABLE_HA_DISCOVERY						1
 #define ENABLE_SEND_POSTANDGET					1
 #define ENABLE_MQTT								1
-//#define ENABLE_TASMOTADEVICEGROUPS				1
+#define ENABLE_TASMOTADEVICEGROUPS				1
 #define ENABLE_LITTLEFS							1
 #define ENABLE_NTP								1
 // #define ENABLE_TIME_DST						1
@@ -335,7 +335,7 @@
 #define ENABLE_DRIVER_MDNS						1
 #endif
 //#define ENABLE_DRIVER_IR						1
-// #define ENABLE_DRIVER_RC						1
+#define ENABLE_DRIVER_RC						1
 #define ENABLE_DRIVER_IR2					1
 //#define ENABLE_DRIVER_DS1820					1
 //#define ENABLE_DRIVER_CHT83XX					1
