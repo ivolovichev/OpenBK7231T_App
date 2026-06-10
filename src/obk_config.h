@@ -335,7 +335,7 @@
 #define ENABLE_DRIVER_MDNS						1
 #endif
 //#define ENABLE_DRIVER_IR						1
-//#define ENABLE_DRIVER_RC						1
+// #define ENABLE_DRIVER_RC						1
 #define ENABLE_DRIVER_IR2					1
 //#define ENABLE_DRIVER_DS1820					1
 //#define ENABLE_DRIVER_CHT83XX					1
